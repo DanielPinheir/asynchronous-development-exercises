@@ -2,7 +2,7 @@
 
 ## Exercícios
 
-1. Cálculo de frete
+## 1. Cálculo de frete
 Vamos criar uma API para cálcular o frete de um produto.
 
 A nossa API deverá possuir três rotas e todas utilizarão o método **GET**.
@@ -43,7 +43,7 @@ Caso chamado a rota **GET** `/produtos/1/frete/41256250`, a resposta deverá ser
 ###### tags: `módulo 2` `exercícios` `lógica` `nodeJS`
 
 
-2. API Pokemon
+## 2. API Pokemon
 Neste exercício criaremos uma API para responder informações de pokemons.
 Para isso, utilizaremos como fonte dos dados as funções `listarPokemons` e `detalharPokemon`, da biblioteca `utils-playground`, que pode ser baixada no NPM, e pode ser encontrado no link abaixo:
 
